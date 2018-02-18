@@ -1,0 +1,7 @@
+
+### TODO
+	- Running Median (RMID)
+	- Merge k sorted arrays
+	- In Place Heap Sort
+	- Make a templated Heap Class (Implemenation)	
+	
